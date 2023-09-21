@@ -141,8 +141,3 @@ export default function App() {
     </div>
   );
 }
-
-// TODO: Corrigir as imagens que não existem mais
-// TODO: Corrigir os links das redes sociais
-// TODO: Adicionar as imagens de fundo que está no projeto puro
-// TODO: Trocar as capas dos jogos
