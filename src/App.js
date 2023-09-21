@@ -18,16 +18,24 @@ const gameListData = [
   },
 
   {
-    url: "https://www.twitch.tv/directory/game/Minecraft",
-    imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg",
-    alt: "Imagem do jogo Minecraft",
+    url: "https://www.twitch.tv/directory/category/crossfire-2007",
+    imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/27101_IGDB-90x120.jpg",
+    alt: "Imagem do jogo CrossFire",
   },
 
   {
-    url: "https://www.twitch.tv/directory/game/Teamfight%20Tactics",
-    imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/513143-188x250.jpg",
-    alt: "Imagem do jogo TFT",
+    url: "https://www.twitch.tv/directory/category/counter-strike-global-offensive",
+    imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-90x120.jpg",
+    alt: "Imagem do jogo Minecraft",
   },
+  
+  {
+    url: "https://www.twitch.tv/directory/category/s-t-a-l-k-e-r-call-of-pripyat",
+    imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/23609_IGDB-90x120.jpg",
+    alt: "Imagem do jogo Minecraft",
+  },
+
+
 ];
 
 const channelListData = [
