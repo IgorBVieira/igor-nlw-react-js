@@ -125,9 +125,10 @@ export default function App() {
           {/* Itens da lista */}
 
           {/* Processo, de forma dinamica, os meus dados e os renderizo em forma de 1 componente cada  */}
-          {gameListData.map(function (item) {
+          {gameListData.map(function (item, index) {
             return (
               <ListItem
+                key={index}
                 url={item.url}
                 imageUrl={item.imageUrl}
                 alt={item.alt}
@@ -140,9 +141,10 @@ export default function App() {
           subtitles="Lista de canais e transmissões"
           className="channel-list"
         >
-          {channelListData.map(function (item) {
+          {channelListData.map(function (item, index) {
             return (
               <ListItem
+                key={index}
                 url={item.url}
                 imageUrl={item.imageUrl}
                 alt={item.alt}
@@ -156,9 +158,10 @@ export default function App() {
           subtitles="Se conecte comigo agora mesmo!"
           className="social-list"
         >
-          {socialListData.map(function (item) {
+          {socialListData.map(function (item, index) {
             return (
               <ListItem
+                key={index}
                 url={item.url}
                 imageUrl={item.imageUrl}
                 alt={item.alt}
