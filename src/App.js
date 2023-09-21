@@ -8,26 +8,26 @@ const gameListData = [
   {
     url: "https://www.twitch.tv/directory/game/League%20of%20Legends",
     imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/21779-188x250.jpg",
-    alt: "Imagem do jogo League of Legends"
+    alt: "Imagem do jogo League of Legends",
   },
 
   {
     url: "https://www.twitch.tv/directory/game/VALORANT",
     imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/516575-188x250.jpg",
-    alt: "Imagem do jogo Valorant"
+    alt: "Imagem do jogo Valorant",
   },
 
   {
     url: "https://www.twitch.tv/directory/game/Minecraft",
     imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg",
-    alt: "Imagem do jogo Minecraft"
+    alt: "Imagem do jogo Minecraft",
   },
 
   {
     url: "https://www.twitch.tv/directory/game/Teamfight%20Tactics",
     imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/513143-188x250.jpg",
-    alt: "Imagem do jogo TFT"
-  }
+    alt: "Imagem do jogo TFT",
+  },
 ];
 
 const channelListData = [
@@ -35,21 +35,42 @@ const channelListData = [
     url: "https://www.twitch.tv/maykbrito",
     alt: "Imagem de Mayk Brito",
     imageUrl:
-      "https://static-cdn.jtvnw.net/jtv_user_pictures/9ce11a2b-ec84-44b1-9c76-b8d29df5fef0-profile_image-150x150.png"
+      "https://static-cdn.jtvnw.net/jtv_user_pictures/9ce11a2b-ec84-44b1-9c76-b8d29df5fef0-profile_image-150x150.png",
   },
 
   {
-    url: "https://www.twitch.tv/alanzoka",
-    alt: "Imagem de Alanzoka",
+    url: "https://www.youtube.com/@FilipeDeschamps",
+    alt: "Imagem de Felipe Deschamps",
     imageUrl:
-      "https://static-cdn.jtvnw.net/jtv_user_pictures/15cec952-c1ba-4ff8-a79c-53c2fa5bd269-profile_image-150x150.png"
+      "https://yt3.googleusercontent.com/ytc/AOPolaTrJ25jHuKWgWdMXv3MiCZRHQzT_GDS496CPeEZ=s176-c-k-c0x00ffffff-no-rj",
   },
 
   {
-    url: "https://www.twitch.tv/cellbit",
-    alt: "Imagemd de Cellbit",
+    url: "https://www.youtube.com/@manodeyvin",
+    alt: "Imagemd de Mano Deyvin",
     imageUrl:
-      "https://static-cdn.jtvnw.net/jtv_user_pictures/cb885149-f7f7-48f0-99ae-fe0a386ed3e2-profile_image-150x150.png"
+      "https://yt3.googleusercontent.com/sqd29Za-ALVl9Dv7E01Jo54jDwnsp89zU8D80exJL6-T6qdQkchWazkVpOlyt47b4fZ0mpXp8A=s176-c-k-c0x00ffffff-no-rj",
+  },
+
+  {
+    url: "https://www.youtube.com/@JovemTranquilao",
+    alt: "Imagemd de Jovem Tranquilão",
+    imageUrl:
+      "https://yt3.googleusercontent.com/ytc/AOPolaSJnLJuo0FwVUZSym5cWmqypn7S7LjRdPQzJm6TFJY=s176-c-k-c0x00ffffff-no-rj",
+  },
+
+  {
+    url: "https://www.youtube.com/@LucasMontano",
+    alt: "Imagem de Lucas Montano",
+    imageUrl:
+      "https://yt3.googleusercontent.com/z0Ccoolotr1Q4F2EaCIgaR4GWLAR_VCwP25QrTica_e9XV6x8-kuQx_qnqI1mnaOkYl6KkIL=s176-c-k-c0x00ffffff-no-rj",
+  },
+
+  {
+    url: "https://www.youtube.com/@Akitando",
+    alt: "Imagemd de Akitando",
+    imageUrl:
+      "https://yt3.googleusercontent.com/ytc/AOPolaTQdrKmscWaHafS63-KZYs7t5tfLl8Dj6oROD_IxW0=s176-c-k-c0x00ffffff-no-rj",
   }
 ];
 
@@ -57,26 +78,26 @@ const socialListData = [
   {
     url: "https://www.twitch.tv/maykbrito",
     imageUrl: "/assets/twitch.svg",
-    alt: ""
+    alt: "",
   },
 
   {
     url: "https://www.twitter.com/maykbrito",
     imageUrl: "/assets/twitter.svg",
-    alt: ""
+    alt: "",
   },
 
   {
     url: "https://www.instagram.com/maykbrito",
     imageUrl: "/assets/instagram.svg",
-    alt: ""
+    alt: "",
   },
 
   {
     url: "https://www.youtube.com/maykbrito",
     imageUrl: "/assets/youtube.svg",
-    alt: ""
-  }
+    alt: "",
+  },
 ];
 
 export default function App() {
