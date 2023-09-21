@@ -9,7 +9,11 @@ ul {
 }
 
 body {
-  background-color: #121214;
+    background-image: url(../public/assets/bg.jpg);
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-color: #121214;
 }
 
 body * {
