@@ -76,27 +76,27 @@ const channelListData = [
 
 const socialListData = [
   {
-    url: "https://www.twitch.tv/maykbrito",
+    url: "https://www.twitch.tv/017_noc",
     imageUrl: "/assets/twitch.svg",
-    alt: "",
+    alt: "Link para o perfil do twitch de Igor/Noc",
   },
 
   {
-    url: "https://www.twitter.com/maykbrito",
+    url: "https://twitter.com/iNoctys",
     imageUrl: "/assets/twitter.svg",
-    alt: "",
+    alt: "Link para o perfil do twitter de Igor/Noc",
   },
 
   {
-    url: "https://www.instagram.com/maykbrito",
+    url: "https://www.instagram.com/noc.017/",
     imageUrl: "/assets/instagram.svg",
-    alt: "",
+    alt: "Link para o perfil do instagram de Igor/Noc",
   },
 
   {
-    url: "https://www.youtube.com/maykbrito",
+    url: "https://www.youtube.com/@noc.017",
     imageUrl: "/assets/youtube.svg",
-    alt: "",
+    alt: "Link para o perfil do youtube de Igor/Noc",
   },
 ];
 
