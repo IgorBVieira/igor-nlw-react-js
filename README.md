@@ -35,13 +35,4 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [React](https://react.dev) - O framework web usado
 * [Create-React-App](https://create-react-app.dev/docs/getting-started/) - Cria o projeto inicial
 
-## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
